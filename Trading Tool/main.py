@@ -1,4 +1,4 @@
-## einbinden der benötigten bibiliotheken
+## einbinden der benötigten bibliotheken
 import tkinter as tk
 from tkinter import ttk, messagebox
 from datetime import datetime, timedelta
